@@ -1,5 +1,5 @@
 # currently listening
-a flask microservice to get my currently listening spotify track
+an express microservice to get my currently listening spotify track
 
 ### Run Locally
 
